@@ -1,4 +1,4 @@
-### Hey there <img src="https://prnt.sc/xrv79b" width="25px">
+### Hey there <img src="https://i.pinimg.com/originals/bb/0d/0c/bb0d0c5a527a0685eb1b1405a867851f.jpg" width="25px">
 
 Here are some ideas to get you started:
 
