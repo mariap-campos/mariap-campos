@@ -1,5 +1,22 @@
-### Hello, there!
+## Hello, there!
+I’m a **front-end developer** 👾 still in development , always looking for more opportunities to grow and learn. Passionate about **programming and design**💻, also kinda nerdy.
 
-<a href="https://www.linkedin.com/in/maria-p-campos/">
-  <img align="left" alt="Maria's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+![eprogramming gif](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+
+Find me here!
+
+<a  href="https://www.linkedin.com/in/maria-p-campos/">
+  <img alt="Maria's Linkedin" align="left" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a  href="https://github.com/mariap-campos">
+  <img align="left" alt="Maria's Github" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+<a  href="mailto:mpfc.maria@gmail.com">
+  <img align="left" alt="Maria's Email" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
+</a>
+<a  href="/">
+  <img align="left" alt="Maria's Personal Site" width="32px" src="https://mpcampos.vercel.app/static/media/profile.d5ab7ee8.png" />
+</a>
+<a  href="https://mpcampos.vercel.app">
+  <img align="left" alt="Maria's Spotify" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
