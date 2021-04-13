@@ -1,7 +1,7 @@
 ## Hello, there!
 I’m a **front-end developer** 👾 still in development , always looking for more opportunities to grow and learn. Passionate about **programming and design**💻, also kinda nerdy.
 
-<img alt="Maria's Linkedin" align="left" width="700px" height="350px" src="https://academy.vcsis.com.br/wp-content/uploads/2014/10/post-perfeito.gif" />
+<img alt="Maria's Linkedin" width="700px" height="350px" src="https://academy.vcsis.com.br/wp-content/uploads/2014/10/post-perfeito.gif" />
 
 Find me here!
 
