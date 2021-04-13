@@ -1,7 +1,7 @@
 ## Hello, there!
 I’m a **front-end developer** 👾 still in development , always looking for more opportunities to grow and learn. Passionate about **programming and design**💻, also kinda nerdy.
 
-![eprogramming gif](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+<img alt="Maria's Linkedin" align="left" width="700px" height="350px" src="https://academy.vcsis.com.br/wp-content/uploads/2014/10/post-perfeito.gif" />
 
 Find me here!
 
@@ -20,3 +20,6 @@ Find me here!
 <a  href="https://mpcampos.vercel.app">
   <img align="left" alt="Maria's Spotify" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
+
+
