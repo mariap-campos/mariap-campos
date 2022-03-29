@@ -1,25 +1,39 @@
 ## Hello, there!
-I’m a **front-end developer** 👾 still in development , always looking for more opportunities to grow and learn. Passionate about **programming and design**💻, also kinda nerdy.
+My name is Maria! i'm a software developer 👾 always in development. Very passionate about **programming**, **design** and a little bit about **video games** 🎮, also kinda nerdy.
 
-<img alt="Maria's Linkedin" width="500px" height="250px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/767e3412-1d35-46c8-b38c-48725d3e4481/dae1jkt-135606b8-4a8b-4df6-bd7e-02a606f2266d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNzY3ZTM0MTItMWQzNS00NmM4LWIzOGMtNDg3MjVkM2U0NDgxXC9kYWUxamt0LTEzNTYwNmI4LTRhOGItNGRmNi1iZDdlLTAyYTYwNmYyMjY2ZC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.UXGSb9SpgzgrGMIN6LoFK-oCBq6petApEhFeBsbyxaA" />
+<img alt="skills" width="800px" height="200px" src="https://github.com/mariap-campos/mariap-campos/blob/main/skills.png?raw=true" />
 
-Find me here!
+**Somethings i know**
+- javascript
+- react / react native
+- html and css
+- java
+
+**Currently working**
+
+- react project **@ ambevtech**
+- learning more about android native development with **kotlin**
+
+<img alt="divider" width="800px" height="10px" src="https://github.com/mariap-campos/mariap-campos/blob/main/divider.png?raw=true" />
+
+## Some of my socials
 
 <a  href="https://www.linkedin.com/in/maria-p-campos/">
-  <img alt="Maria's Linkedin" align="left" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a  href="https://github.com/mariap-campos">
-  <img align="left" alt="Maria's Github" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img alt="Linkedin" align="left" width="32px" src="https://github.com/mariap-campos/mariap-campos/blob/main/linkedin.png?raw=true" />
 </a>
 <a  href="mailto:mpfc.maria@gmail.com">
-  <img align="left" alt="Maria's Email" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
-</a>
-<a  href="/">
-  <img align="left" alt="Maria's Personal Site" width="32px" src="https://mpcampos.vercel.app/static/media/profile.d5ab7ee8.png" />
+  <img align="left" alt="Maria's Email" width="38px" src="https://github.com/mariap-campos/mariap-campos/blob/main/gmail.png?raw=true" />
 </a>
 <a  href="https://mpcampos.vercel.app">
-  <img align="left" alt="Maria's Spotify" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="my website" width="32px" src="https://github.com/mariap-campos/mariap-campos/blob/main/website.png?raw=true" />
 </a>
+<a  href="https://www.instagram.com/mashpaula/">
+  <img align="left" alt="instagram" width="32px" src="https://github.com/mariap-campos/mariap-campos/blob/main/instagram.png?raw=true" />
+</a>
+<a  href="https://open.spotify.com/user/mashpaula">
+  <img align="left" alt="spotify" width="32px" src="https://github.com/mariap-campos/mariap-campos/blob/main/spotify.png?raw=true" />
+</a>
+
 
 
 
