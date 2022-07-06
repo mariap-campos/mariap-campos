@@ -5,14 +5,14 @@
 
 My name is Maria! i'm a software developer always in development. Very passionate about **programming**, **design**, **music** and **nerdy** things. 👾
 
-<div align="center">
+<div align="left">
   <a href="github.com/Evanilsonpg">
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariap-campos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariap-campos&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
-<div align="center" valign="top"><br>
+<div align="left" valign="top"><br>
   
    <img align="center" alt="Js" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Js" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -38,7 +38,7 @@ My name is Maria! i'm a software developer always in development. Very passionat
 
 
 ## Some of my socials
-<div align="center"> <br>
+<div align="left"> <br>
   <a href="https://www.linkedin.com/in/maria-p-campos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://mpcampos.vercel.app"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mashpaula/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
