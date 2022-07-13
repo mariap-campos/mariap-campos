@@ -1,8 +1,6 @@
 
 ## Hello, there!
 
-<img alt="Room" width="400px" src="https://64.media.tumblr.com/e1ea107f9a766b1ecb7237ad31237d92/9bcccd0b12166535-c2/s540x810/b7c8b794510b3366011b84b63c54f1ac3fb6af20.gifv" />
-
 My name is Maria! i'm a software developer always in development. Very passionate about **programming**, **design**, **music** and **nerdy** things. 👾
 
 <div align="left">
