@@ -31,7 +31,7 @@ My name is Maria! i'm a software developer always in development. Very passionat
 - unit testing
 
 **Currently working**
-- react project **@ ambevtech**
+- react / react native **@ ze delivery**
 - learning more about backend development with **c#**
 
 
