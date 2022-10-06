@@ -32,7 +32,6 @@ My name is Maria! i'm a software developer always in development. Very passionat
 
 **Currently working**
 - react / react native **@ ze delivery**
-- learning more about backend development with **c#**
 
 
 ## Some of my socials
