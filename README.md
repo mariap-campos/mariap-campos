@@ -1,12 +1,6 @@
 
 ## mariap-campos
 
-<div align="left">
-  <a href="github.com/Evanilsonpg">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariap-campos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariap-campos&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 <br/>
 
 ### About me
