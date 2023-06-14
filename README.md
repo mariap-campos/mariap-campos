@@ -1,8 +1,6 @@
 
 ## mariap-campos
 
-<br/>
-
 ### About me
   Hi there! i'm Maria, a software developer always in development and mainly focused on front-end stuff. Very passionate about **programming**, **design**, **music** and all things **nerdy** 👾
 <br/>
